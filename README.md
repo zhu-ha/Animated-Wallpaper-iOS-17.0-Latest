@@ -16,7 +16,7 @@ pip3 install PySide6
 ```
 ### Running Nugget:
 
-1. Download latest version of Nugget: https://github.com/leminlimez/Nugget/releases
+1. Download latest version of [Nugget](https://github.com/leminlimez/Nugget/releases)
    
 2. Turn off Find My on your iPhone/iPad
 
