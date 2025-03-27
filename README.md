@@ -1,4 +1,4 @@
-# Animated-Wallpaper-iOS-17.0-Latest
+# Animated-Wallpapers-iOS-17.0-Latest
 ### Requirements:
 - Windows :
 Python, Apple Devices app (from Microsoft Store) OR iTunes (from Apple Website)
