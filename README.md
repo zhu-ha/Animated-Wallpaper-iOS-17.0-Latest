@@ -1,7 +1,12 @@
 # Animated-Wallpaper-iOS-17.0-Latest
 Prerequisite for Windows : Python, Apple Devices app (from Microsoft Store)
+
+#Setting up Python
+
 Now open CMD
+
 Type:
+
 python3 -m venv .env/Scripts/activate.bat
 pip3 install -r pymobiledevice3
 pip3 install -r PySide6
