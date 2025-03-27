@@ -1,15 +1,18 @@
-# Animated-Wallpaper-iOS-17.0-Latest-Windows
+# Animated-Wallpaper-iOS-17.0-Latest
 ### Requirements:
-for Windows : Python, Apple Devices app (from Microsoft Store)
+- Windows :
+Python, Apple Devices app (from Microsoft Store) OR iTunes (from Apple Website)
 
 ### Setting up Python:
 Note: [LeminLimez](https://github.com/leminlimez) (Nugget Creator) highly recommend using virtual environment, however I am not going to
 
-1. Open CMD
+1. Open CMD/Terminal
 
 2. Type:
 ```
-py -m ensurepip --upgrade # to install pip if you do not have already
+py -m ensurepip --upgrade # Windows
+
+python -m ensurepip --upgrade # MacOS
 
 pip3 install pymobiledevice3
 
