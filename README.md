@@ -1,4 +1,5 @@
 # Animated-Wallpapers-iOS-17.0-Latest
+### Simplified straight-to-the-point guide to add custom animated wallpapers to your iDevice
 ### Requirements:
 - Windows :
    [Apple Devices (from Microsoft Store)](https://apps.microsoft.com/detail/9np83lwlpz9k%3Fhl%3Den-US%26gl%3DUS&ved=2ahUKEwjE-svo7qyJAxWTlYkEHQpbH3oQFnoECBoQAQ&usg=AOvVaw0rZTXCFmRaHAifkEEu9tMI) app or [iTunes (from Apple website)](https://support.apple.com/en-us/106372)
@@ -54,6 +55,6 @@ Note: Yours might be pip instead of pip3
 
 - [PosterRestore](https://discord.com/invite/gWtzTVhMvh) - Posterboard 
 
-## This is just a simple guide made for those interested
+
 
 
