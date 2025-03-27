@@ -32,7 +32,7 @@ Note: Yours might be pip instead of pip3
 
 7. Go to Posterboard section
 
-8. Check "Modidy"
+8. Check "Modify"
 
 9. Click find wallpapers
 
