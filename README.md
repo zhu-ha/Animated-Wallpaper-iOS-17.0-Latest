@@ -3,7 +3,7 @@
 ### Requirements:
 - Windows :
    [Apple Devices (from Microsoft Store)](https://apps.microsoft.com/detail/9np83lwlpz9k%3Fhl%3Den-US%26gl%3DUS&ved=2ahUKEwjE-svo7qyJAxWTlYkEHQpbH3oQFnoECBoQAQ&usg=AOvVaw0rZTXCFmRaHAifkEEu9tMI) app or [iTunes (from Apple website)](https://support.apple.com/en-us/106372)
-   Python
+   - Python
 
 ### Setting up Python:
 Note: [LeminLimez](https://github.com/leminlimez) (Nugget Creator) highly recommend using virtual environment, however I am not going to
