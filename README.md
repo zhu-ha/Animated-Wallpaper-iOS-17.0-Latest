@@ -51,7 +51,11 @@ Note: Yours might be pip instead of pip3
 
 13. Go to apply and click apply changes
 
-14. Wait for device to restart and you are done
+14. Wait for device to restart
+
+15. Hold down on your lockscreen, add wallpaper, check the collection section the wallpaper should be there
+
+16. Done
 
 ## Credits
 - [LeminLimez](https://github.com/leminlimez) - Nugget creator
