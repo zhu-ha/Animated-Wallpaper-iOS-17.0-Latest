@@ -1,7 +1,7 @@
 # Animated-Wallpapers-iOS-17.0-Latest
 ### Requirements:
 - Windows :
-Python, Apple Devices app (from Microsoft Store) OR iTunes (from Apple Website)
+   [Apple Devices (from Microsoft Store)](https://apps.microsoft.com/detail/9np83lwlpz9k%3Fhl%3Den-US%26gl%3DUS&ved=2ahUKEwjE-svo7qyJAxWTlYkEHQpbH3oQFnoECBoQAQ&usg=AOvVaw0rZTXCFmRaHAifkEEu9tMI) app or [iTunes (from Apple website)](https://support.apple.com/en-us/106372)
 
 ### Setting up Python:
 Note: [LeminLimez](https://github.com/leminlimez) (Nugget Creator) highly recommend using virtual environment, however I am not going to
@@ -41,7 +41,7 @@ Note: Yours might be pip instead of pip3
 
 10. Download .tendies file
 
-11. Go back to nugget and click import tendies
+11. Go back to Nugget and click import tendies
 
 12. Browse and select the file
 
