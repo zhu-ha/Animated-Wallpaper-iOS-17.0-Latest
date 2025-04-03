@@ -57,7 +57,7 @@ Note: Yours might be pip instead of pip3
 
 10. Import your video 
 
-11. VIDEO MUST BE SHORT SINCE IT ONLY SUPPORT UP TO 300FRAMES
+11. VIDEO MUST BE SHORT SINCE IT ONLY SUPPORT UP TO 300FRAMES (60FPS video = 60Frames/Second)
 
 ## Continue
 
