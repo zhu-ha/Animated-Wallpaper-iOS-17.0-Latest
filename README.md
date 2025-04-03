@@ -1,4 +1,4 @@
-# Animated-Wallpapers-iOS-17.0-Latest
+# Animated/Live-Wallpapers-iOS-17.0-Latest
 ### Simplified straight-to-the-point guide to add custom animated wallpapers to your iDevice
 ### Requirements:
 - Windows :
@@ -41,6 +41,8 @@ Note: Yours might be pip instead of pip3
 
 8. Check "Modify"
 
+##Tendies/AnimatedWallpapers
+
 9. Click find wallpapers
 
 10. Download .tendies file
@@ -48,6 +50,16 @@ Note: Yours might be pip instead of pip3
 11. Go back to Nugget and click import tendies
 
 12. Browse and select the file
+
+##Live/VideoWallpapers
+
+9. Click Live
+
+10.Import your video 
+
+11.VIDEO MUST BE SHORT SINCE IT ONLY SUPPORT UP TO 300FRAMES
+
+##Continue
 
 13. Go to apply and click apply changes
 
