@@ -41,7 +41,7 @@ Note: Yours might be pip instead of pip3
 
 8. Check "Modify"
 
-##Tendies/AnimatedWallpapers
+## Tendies/AnimatedWallpapers
 
 9. Click find wallpapers
 
@@ -51,15 +51,15 @@ Note: Yours might be pip instead of pip3
 
 12. Browse and select the file
 
-##Live/VideoWallpapers
+## Live/VideoWallpapers
 
 9. Click Live
 
-10.Import your video 
+10. Import your video 
 
-11.VIDEO MUST BE SHORT SINCE IT ONLY SUPPORT UP TO 300FRAMES
+11. VIDEO MUST BE SHORT SINCE IT ONLY SUPPORT UP TO 300FRAMES
 
-##Continue
+## Continue
 
 13. Go to apply and click apply changes
 
