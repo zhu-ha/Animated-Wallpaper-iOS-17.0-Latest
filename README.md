@@ -69,7 +69,7 @@ Note: Yours might be pip instead of pip3
 
 16. Done
 
-### Shortcut to help with the frame stutter issues on certain apps
+## Shortcut to help with the frame stutter issues on certain apps
 
 1. Create a folder to store the Wallpapers as Images 
 2. Create another folder to store them as .txt
@@ -77,13 +77,13 @@ Note: Yours might be pip instead of pip3
 4. Create an automation for when app is opened and select save as txt shortcut and then add the switch wallpaper option to switch to a static one
 5. Create an automation for when app is closed and select switcher shortcut
 
-## Shortcuts links
+### Shortcuts links
 
    [SaveAsText](https://www.icloud.com/shortcuts/63d53502c1f54d03abf204374e652d17)
 
    [Switcher](https://www.icloud.com/shortcuts/b1d9aae1888e412d8afcb58dc4e83f3f)
 
-### Credits
+## Credits
 - [LeminLimez](https://github.com/leminlimez) - Nugget creator
 
 - [PosterRestore](https://discord.com/invite/gWtzTVhMvh) - Posterboard 
