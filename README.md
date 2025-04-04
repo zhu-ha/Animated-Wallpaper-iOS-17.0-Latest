@@ -69,6 +69,16 @@ Note: Yours might be pip instead of pip3
 
 16. Done
 
+### Shortcut to help with the frame stutter issues on certain apps
+
+1. Create a folder to store the Wallpapers as Images 
+2. Create another folder to store them as .txt
+3. Edit the shortcut based on your Wallpapers selection and the folders
+4. Create an automation for when app is opened and select save as txt
+5. Create an automation for when app is closed and select switcher
+
+   [SaveAsText](
+
 ## Credits
 - [LeminLimez](https://github.com/leminlimez) - Nugget creator
 
