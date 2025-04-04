@@ -79,6 +79,8 @@ Note: Yours might be pip instead of pip3
 
 ### Shortcuts links
 
+   [Readme](https://www.icloud.com/shortcuts/21f625dcea6141a2a03017957d80c321)
+
    [SaveAsText](https://www.icloud.com/shortcuts/63d53502c1f54d03abf204374e652d17)
 
    [Switcher](https://www.icloud.com/shortcuts/b1d9aae1888e412d8afcb58dc4e83f3f)
