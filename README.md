@@ -41,7 +41,7 @@ Note: Yours might be pip instead of pip3
 
 8. Check "Modify"
 
-## Tendies/AnimatedWallpapers
+### Tendies/AnimatedWallpapers
 
 9. Click find wallpapers
 
@@ -51,7 +51,7 @@ Note: Yours might be pip instead of pip3
 
 12. Browse and select the file
 
-## Live/VideoWallpapers
+### Live/VideoWallpapers
 
 9. Click Live
 
