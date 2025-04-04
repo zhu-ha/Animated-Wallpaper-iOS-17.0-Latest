@@ -69,7 +69,7 @@ Note: Yours might be pip instead of pip3
 
 16. Done
 
-## Shortcut to help with the frame stutter issues on certain apps
+## Automation setup to help with the frame stutter issues on certain apps
 
 1. Create a folder to store the Wallpapers as Images 
 2. Create another folder to store them as .txt
